@@ -1,0 +1,39 @@
+{
+  "name": "ravenbrighttokens",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ravenbrightdesign/ravenbrighttokens.git"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://ravenbrightcss.com/tokens",
+  "docs": "https://ravenbrightcss.com/docs/customize/css-variables",
+  "author": "Ariq N",
+  "description": "Modern, platform agnostic & reusable design tokens to help you enable seamless handoff experience & build intuitive website faster",
+  "style": "dist/css/ravenbright-vars.min.css",
+  "unpkg": "dist/ravenbright-vars.min.css",
+  "bugs": {
+    "url": "https://github.com/ravenbrightdesign/ravenbrighttokens/issues"
+  },
+  "keywords": [
+    "CSS",
+    "CSS custom properties",
+    "CSS variables",
+    "design tokens",
+    "design system",
+    "Figma tokens",
+    "front-end",
+    "JSON",
+    "Tailwind CSS config"
+  ],
+  "files": [
+    "dist/css/*.css",
+    "dist/figma/*.json",
+    "dist/json/*.json",
+    "dist/tailwindcssconfig/tailwind.config.js",
+    "dist/tailwindcssconfig/input.css",
+    "LICENSE.md",
+    "package.json",
+    "README.md"
+  ]
+}
